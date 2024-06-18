@@ -14,5 +14,6 @@
     "require": {},
     "scripts":{
         "server":"php -S localhost:8000"
+         "test": "vendor/bin/phpunit"
     }
 }
