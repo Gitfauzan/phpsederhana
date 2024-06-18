@@ -1,0 +1,18 @@
+{
+    "name": "alif/latihanunittestphp",
+    "autoload": {
+        "psr-4": {
+            "Alif\\Latihanunittestphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gitfauzan",
+            "email": "muhammad.alif.fauzan@students.amikom.ac.id"
+        }
+    ],
+    "require": {},
+    "scripts":{
+        "server":"php -S localhost:8000"
+    }
+}
